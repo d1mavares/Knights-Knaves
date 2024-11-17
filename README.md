@@ -49,3 +49,6 @@ The program solves the following puzzles.
 In each of the above puzzles, each character is either a knight or a knave. Every sentence spoken by a knight is true, and every sentence spoken by a knave is false.
 
 Run *python puzzle.py* to see the solution to the puzzle.
+
+![Screenshot from 2024-11-17 13-16-15](https://github.com/user-attachments/assets/de7ab68f-7131-4454-abf7-2a44adaa751a)
+
